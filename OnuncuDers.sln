@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnuncuDers", "OnuncuDers.csproj", "{0A2A4FF5-62DD-4514-8B4B-6800E9A5F19A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnuncuDersMetotlar", "OnuncuDersMetotlar\OnuncuDersMetotlar.csproj", "{81FFAFC7-47FF-4116-BD09-EE8FA35D68F6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A2A4FF5-62DD-4514-8B4B-6800E9A5F19A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A2A4FF5-62DD-4514-8B4B-6800E9A5F19A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A2A4FF5-62DD-4514-8B4B-6800E9A5F19A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A2A4FF5-62DD-4514-8B4B-6800E9A5F19A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81FFAFC7-47FF-4116-BD09-EE8FA35D68F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81FFAFC7-47FF-4116-BD09-EE8FA35D68F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81FFAFC7-47FF-4116-BD09-EE8FA35D68F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81FFAFC7-47FF-4116-BD09-EE8FA35D68F6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0A94BE34-D56C-4A68-94E5-70C39BFC41F4}
+	EndGlobalSection
+EndGlobal
